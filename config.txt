@@ -11,5 +11,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#%40V2rayNG
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%40V2rayNGVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#%40V2rayNGVPN
 vless://c918bc36-ea05-4b45-a3ba-3130508bbe0d@151.101.3.8:80?host=barkatc2.ir&security=none&type=ws&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&encryption=none#%40Daily_Configs
-vless://DIGIV2RAy@www.speedtest.net:2052?host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&security=none&type=ws&path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%40V2ray_official+%7C+All%C2%B3
+vless://DIGIV2RAy@www.speedtest.net:2052?host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&security=none&type=ws&path=%2Ftm-Digiv2-__teldIGIv2__DIGiv&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%40V2ray_official+%7C+All%C2%B3
+vless://552b5df7-252d-4ecb-818d-8e079a1ce2ad@151.101.3.8:80?host=www.pgx.com&security=none&type=ws&path=%2FTelegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2-Telegram-XV2ry2%3Fed%3D512&encryption=none#%F0%9F%8C%8D%F0%9D%92%84%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8F%F0%9D%92%86%F0%9D%92%8D+%F0%9F%91%89+%40XV2ray+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7
+
 vless://d3882d5d-709a-4432-82cb-bcbaf986fbe1@151.101.3.8:80?host=barkatc1.ir&security=none&type=ws&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&encryption=none#%40Daily_Configs
